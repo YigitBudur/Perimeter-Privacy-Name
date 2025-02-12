@@ -1,6 +1,6 @@
 **Privacy Policy for Perimeter**
 
-Effective Date: [20.09.2024]
+Effective Date: [12.02.2025]
 
 At Shield Arc, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our game, Perimeter.
 
@@ -22,7 +22,9 @@ The information we collect is used solely for serving relevant ads to you throug
 
 We use third-party advertising services in our game. These partners may collect and use information as described above to provide personalized ads. Please refer to their privacy policies for more details on how they handle your data:
 
-- [1] Privacy Policy
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 
 ### 4. **Children's Privacy**
 
